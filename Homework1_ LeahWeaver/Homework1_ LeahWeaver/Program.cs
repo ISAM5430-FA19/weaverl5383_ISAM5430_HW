@@ -17,7 +17,7 @@ namespace Homework1_LeahWeaver
             string num1 = Console.ReadLine();
             Console.Write("Please enter another number: ");
             string num2 = Console.ReadLine();
-            Console.Write("Please enter the basic operation to perform on the numbers (+, -, *, /): ");
+            Console.Write("Please enter the basic operation to perform on the numbers (+, -, *, /): "); 
             string oper = Console.ReadLine();
 
 

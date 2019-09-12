@@ -13,6 +13,7 @@ namespace HW02_D1
             int count;
             int num = 1;
             int inNum;
+            int positives = 0;
             int zeroes = 0;
             int evens = 0;
             int largest = int.MinValue;
@@ -32,6 +33,14 @@ namespace HW02_D1
                 Console.WriteLine("Input the number:");
                 //user inputs numbers
                 inNum = Int32.Parse(Console.ReadLine());
+
+                //if number>0
+                if (inNum > 0)
+                {
+                    //add to positives
+                    positives = positives + 1;
+                }
+
                 //if number is zero
                 if (inNum == 0)
                 {
@@ -78,7 +87,7 @@ namespace HW02_D1
 
             //Display all results
 
-            Console.WriteLine($"Within the {count} numbers entered, there were {zeroes} zeroes, {evens} even numbers, the largest value was {largest}, the smallest value was {smallest}.");
+            Console.WriteLine($"Within the {count} numbers entered, there were {positives} positive numbers, there were {zeroes} zeroes, {evens} even numbers, the largest value was {largest}, the smallest value was {smallest}.");
 
             //see if sum of first and second half were euqal
             if (sum1 == sum2)

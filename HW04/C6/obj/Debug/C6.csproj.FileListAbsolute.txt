@@ -1,0 +1,6 @@
+C:\Users\ldwea\source\repos\HW04\C6\bin\Debug\C6.exe.config
+C:\Users\ldwea\source\repos\HW04\C6\bin\Debug\C6.exe
+C:\Users\ldwea\source\repos\HW04\C6\bin\Debug\C6.pdb
+C:\Users\ldwea\source\repos\HW04\C6\obj\Debug\C6.csproj.CoreCompileInputs.cache
+C:\Users\ldwea\source\repos\HW04\C6\obj\Debug\C6.exe
+C:\Users\ldwea\source\repos\HW04\C6\obj\Debug\C6.pdb

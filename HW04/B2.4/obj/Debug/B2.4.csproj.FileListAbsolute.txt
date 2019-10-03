@@ -1,0 +1,6 @@
+C:\Users\ldwea\source\repos\HW04\B2.4\bin\Debug\B2.4.exe.config
+C:\Users\ldwea\source\repos\HW04\B2.4\bin\Debug\B2.4.exe
+C:\Users\ldwea\source\repos\HW04\B2.4\bin\Debug\B2.4.pdb
+C:\Users\ldwea\source\repos\HW04\B2.4\obj\Debug\B2.4.csproj.CoreCompileInputs.cache
+C:\Users\ldwea\source\repos\HW04\B2.4\obj\Debug\B2.4.exe
+C:\Users\ldwea\source\repos\HW04\B2.4\obj\Debug\B2.4.pdb

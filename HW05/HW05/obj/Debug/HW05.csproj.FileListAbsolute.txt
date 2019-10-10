@@ -1,0 +1,7 @@
+C:\Users\ldwea\source\repos\ISAM5430-FA19\weaverl5383_ISAM5430_HW\HW05\HW05\bin\Debug\HW05.exe.config
+C:\Users\ldwea\source\repos\ISAM5430-FA19\weaverl5383_ISAM5430_HW\HW05\HW05\bin\Debug\HW05.exe
+C:\Users\ldwea\source\repos\ISAM5430-FA19\weaverl5383_ISAM5430_HW\HW05\HW05\bin\Debug\HW05.pdb
+C:\Users\ldwea\source\repos\ISAM5430-FA19\weaverl5383_ISAM5430_HW\HW05\HW05\obj\Debug\HW05.csprojAssemblyReference.cache
+C:\Users\ldwea\source\repos\ISAM5430-FA19\weaverl5383_ISAM5430_HW\HW05\HW05\obj\Debug\HW05.csproj.CoreCompileInputs.cache
+C:\Users\ldwea\source\repos\ISAM5430-FA19\weaverl5383_ISAM5430_HW\HW05\HW05\obj\Debug\HW05.exe
+C:\Users\ldwea\source\repos\ISAM5430-FA19\weaverl5383_ISAM5430_HW\HW05\HW05\obj\Debug\HW05.pdb

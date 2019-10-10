@@ -1,0 +1,7 @@
+C:\Users\ldwea\source\repos\ISAM5430-FA19\weaverl5383_ISAM5430_HW\HW05\C.2\bin\Debug\C.2.exe.config
+C:\Users\ldwea\source\repos\ISAM5430-FA19\weaverl5383_ISAM5430_HW\HW05\C.2\bin\Debug\C.2.exe
+C:\Users\ldwea\source\repos\ISAM5430-FA19\weaverl5383_ISAM5430_HW\HW05\C.2\bin\Debug\C.2.pdb
+C:\Users\ldwea\source\repos\ISAM5430-FA19\weaverl5383_ISAM5430_HW\HW05\C.2\obj\Debug\C.2.csprojAssemblyReference.cache
+C:\Users\ldwea\source\repos\ISAM5430-FA19\weaverl5383_ISAM5430_HW\HW05\C.2\obj\Debug\C.2.csproj.CoreCompileInputs.cache
+C:\Users\ldwea\source\repos\ISAM5430-FA19\weaverl5383_ISAM5430_HW\HW05\C.2\obj\Debug\C.2.exe
+C:\Users\ldwea\source\repos\ISAM5430-FA19\weaverl5383_ISAM5430_HW\HW05\C.2\obj\Debug\C.2.pdb
